@@ -1,0 +1,292 @@
+[
+    {
+        "id": "Rd+09",
+        "date": "2009-11",
+        "reference": "Reid et al. (2009b)",
+        "method": "trig. parallax of Sgr B",
+        "location": ["GC"],
+        "type": "d",
+        "value": 7.9,
+        "error": 0.75
+    },
+    {
+        "id": "Mo+12",
+        "date": "2012-08",
+        "reference": "Morris et al. (2012)",
+        "method": "orbit of S0-2 around Sgr A*",
+        "location": ["GC"],
+        "type": "d",
+        "value": 7.7,
+        "error": 0.4
+    },
+    {
+        "id": "Gi+09",
+        "date": "2009-02",
+        "reference": "Gillessen et al. (2009b)",
+        "method": "stellar orbits around Sgr A*",
+        "location": ["GC"],
+        "type": "d",
+        "value": 8.33,
+        "error": 0.35
+    },
+    {
+        "id": "Ch+15",
+        "date": "2015-02",
+        "reference": "Chatzopoulos et al. (2015)",
+        "method": "NSC statistical parallax",
+        "location": ["GC"],
+        "type": "d",
+        "value": 8.27,
+        "error": 0.13
+    },
+    {
+        "id": "Do+13",
+        "date": "2013-12",
+        "reference": "Do et al. (2013)",
+        "method": "NSC statistical parallax",
+        "location": ["GC"],
+        "type": "d",
+        "value": 8.92,
+        "error": 0.56
+    },
+    {
+        "id": "BB15",
+        "date": "2015-01",
+        "reference": "Bajkova & Bobylev (2015)",
+        "method": "trig. parallaxes of HMSFRs",
+        "location": ["DSN"],
+        "type": "m",
+        "value": 8.03,
+        "error": 0.32
+    },
+    {
+        "id": "Rd+14",
+        "date": "2014-03",
+        "reference": "Reid et al. (2014)",
+        "method": "trig. parallaxes of HMSFRs",
+        "location": ["DSN"],
+        "type": "m",
+        "value": 8.34,
+        "error": 0.19
+    },
+    {
+        "id": "Ho+12",
+        "date": "2012-12",
+        "reference": "Honma et al. (2012)",
+        "method": "trig. parallaxes of HMSFRs",
+        "location": ["DSN"],
+        "type": "m",
+        "value": 8.05,
+        "error": 0.45
+    },
+    {
+        "id": "ZS13",
+        "date": "2012-09",
+        "reference": "Zhu & Shen (2013)",
+        "method": "near-R0 rotation young tracers",
+        "location": ["DSN"],
+        "type": "m",
+        "value": 8.08,
+        "error": 0.62
+    },
+    {
+        "id": "Bo13",
+        "date": "2013-02",
+        "reference": "Bobylev (2013)",
+        "method": "near-R0 rotation SFR+Cepheids",
+        "location": ["DSN"],
+        "type": "m",
+        "value": 7.45,
+        "error": 0.66
+    },
+    {
+        "id": "Sch12",
+        "date": "2012-11",
+        "reference": "Schönrich (2012)",
+        "method": "near-R0 rotation SEGUE stars",
+        "location": ["DSN"],
+        "type": "m",
+        "value": 8.27,
+        "error": 0.41
+    },
+    {
+        "id": "Ku+15",
+        "date": "2015-04",
+        "reference": "Köpper et al. (2015)",
+        "method": "tidal tails of Pal-5",
+        "location": ["IH"],
+        "type": "m",
+        "value": 8.3,
+        "error": 0.35
+    },
+    {
+        "id": "VH+09",
+        "date": "2009-04",
+        "reference": "Vanhollebeke et al. (2009)",
+        "method": "bulge stellar population model",
+        "location": ["B"],
+        "type": "m",
+        "value": 8.7,
+        "error": 0.5
+    },
+    {
+        "id": "Pi+15",
+        "date": "2015-10",
+        "reference": "Pietrukowicz et al. (2015)",
+        "method": "bulge RR Lyrae stars",
+        "location": ["B"],
+        "type": "s",
+        "value": 8.27,
+        "error": 0.4
+    },
+    {
+        "id": "De+13",
+        "date": "2013-10",
+        "reference": "Dekany et al. (2013)",
+        "method": "bulge RR Lyrae stars",
+        "location": ["B"],
+        "type": "s",
+        "value": 8.33,
+        "error": 0.15
+    },
+    {
+        "id": "Da09",
+        "date": "2009-06",
+        "reference": "Dambis (2009)",
+        "method": "disk/halo RR Lyrae stars",
+        "location": ["DSN"],
+        "type": "s",
+        "value": 7.58,
+        "error": 0.57
+    },
+    {
+        "id": "Ma+13",
+        "date": "2013-02",
+        "reference": "Matsunaga et al. (2013)",
+        "method": "nuclear bulge T-II Cepheids",
+        "location": ["B"],
+        "type": "s",
+        "value": 7.5,
+        "error": 0.6
+    },
+    {
+        "id": "Ma+11",
+        "date": "2011-09",
+        "reference": "Matsunaga et al. (2011)",
+        "method": "nuclear bulge Cepheids",
+        "location": ["B"],
+        "type": "s",
+        "value": 7.9,
+        "error": 0.36
+    },
+    {
+        "id": "Gr+08",
+        "date": "2008-04",
+        "reference": "Groenewegen et al. (2008)",
+        "method": "bulge Cepheids",
+        "location": ["B"],
+        "type": "s",
+        "value": 7.98,
+        "error": 0.51
+    },
+    {
+        "id": "Ma+09",
+        "date": "2009-11",
+        "reference": "Matsunaga et al. (2009)",
+        "method": "bulge Mirae",
+        "location": ["B"],
+        "type": "s",
+        "value": 8.24,
+        "error": 0.43
+    },
+    {
+        "id": "GrB05",
+        "date": "2005-11",
+        "reference": "Groenewegen & Blommaert (2005)",
+        "method": "bulge Mirae",
+        "location": ["B"],
+        "type": "s",
+        "value": 8.6,
+        "error": 0.81
+    },
+    {
+        "id": "FA14",
+        "date": "2014-06",
+        "reference": "Francis & Anderson (2014)",
+        "method": "bulge red clump giants",
+        "location": ["B"],
+        "type": "s",
+        "value": 7.5,
+        "error": 0.3
+    },
+    {
+        "id": "Ca+13",
+        "date": "2013-09",
+        "reference": "Cao et al. (2013)",
+        "method": "bulge red clump giants",
+        "location": ["B"],
+        "type": "s",
+        "value": 8.2,
+        "error": 0.2
+    },
+    {
+        "id": "Fr+11",
+        "date": "2011-08",
+        "reference": "Fritz et al. (2011)",
+        "method": "NSC red clump giants",
+        "location": ["GC"],
+        "type": "s",
+        "value": 7.94,
+        "error": 0.76
+    },
+    {
+        "id": "FA14",
+        "date": "2014-06",
+        "reference": "Francis & Anderson (2014)",
+        "method": "all globular clusters",
+        "location": ["B", "IH"],
+        "type": "s",
+        "value": 7.4,
+        "error": 0.28
+    },
+    {
+        "id": "Bi+06",
+        "date": "2006-04",
+        "reference": "Bica et al. (2006)",
+        "method": "halo globular clusters",
+        "location": ["IH"],
+        "type": "s",
+        "value": 7.1,
+        "error": 0.54
+    },
+    {
+        "id": "Bo+16",
+        "date": "2016-10",
+        "reference": "Boehle et al. (2016)",
+        "method": "stellar orbits around Sgr A*",
+        "location": ["GC"],
+        "type": "d",
+        "value": 7.86,
+        "error": 0.15
+    },    
+    {
+        "id": "Gi+17",
+        "date": "2017-03",
+        "reference": "Gillessen et al. (2017)",
+        "method": "stellar orbits around Sgr A*",
+        "location": ["GC"],
+        "type": "d",
+        "value": 8.32,
+        "error": 0.16
+    },
+    {
+        "id": "GRAVITY+18",
+        "date": "2018-06",
+        "reference": "GRAVITY Collaboration (2018)",
+        "method": "stellar orbits around Sgr A*",
+        "location": ["GC"],
+        "type": "d",
+        "value": 8.127,
+        "error": 0.031
+    }
+]
